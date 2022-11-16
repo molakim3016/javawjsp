@@ -28,6 +28,7 @@
   	<p>
   		<input type="submit" value="전송" class="btn btn-success" />
   	</p>
+  	<input type="hidden" name="hostIp" value="<%=request.getRemoteAddr() %>"/>
   </form>
 </div>
 <p><br/></p>
