@@ -1,4 +1,4 @@
-package j1117;
+package study.j1117;
 
 import java.io.IOException;
 

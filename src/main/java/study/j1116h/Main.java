@@ -1,4 +1,4 @@
-package j1116h;
+package study.j1116h;
 
 import java.io.IOException;
 

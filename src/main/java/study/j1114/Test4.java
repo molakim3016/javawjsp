@@ -1,4 +1,4 @@
-package j1114;
+package study.j1114;
 
 import java.io.IOException;
 import java.io.PrintWriter;

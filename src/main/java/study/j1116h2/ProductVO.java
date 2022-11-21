@@ -1,4 +1,4 @@
-package j1116h2;
+package study.j1116h2;
 
 public class ProductVO {
 	private String name="";
