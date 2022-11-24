@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <title>길동이네 홈페이지</title>
+  <title>김학준 홈페이지</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <jsp:include page="include/bs4.jsp"/>
@@ -14,14 +14,8 @@
   </style>
 </head>
 <body>
-
-<div class="jumbotron text-center" style="margin-bottom:0">
-  <h1>길동이네 집에 오신것을 환영합니다.</h1>
-  <p>(본페이지는 반응형으로 제작된 JSP 프로젝트입니다.)</p> 
-</div>
-
-<jsp:include page="include/nav.jsp"/>
-
+<jsp:include page="include/header.jsp"/>
+<p><br/></p>
 <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-4">
@@ -62,8 +56,7 @@
     </div>
   </div>
 </div>
-
-
+<p><br/></p>
 <jsp:include page="include/footer.jsp"></jsp:include>
 </body>
 </html>
